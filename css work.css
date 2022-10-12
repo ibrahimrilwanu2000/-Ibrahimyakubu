@@ -1,0 +1,39 @@
+body{
+	 background-color: rgb(247, 248, 250);
+}
+.a{
+	border: none cyan;
+	margin: 2px;
+	padding: 15px;
+	background-color:white;
+	
+}
+.b{
+	margin: 20px;	
+
+}
+#main{
+	border:none white;
+	border-radius: 8px;
+	width: 150px;
+	height: 630px;
+	padding: 2px;
+	background-color:  rgb(196, 225, 197);
+	position: fixed;
+
+}
+
+#img{
+	border: none rgb(196, 225, 197);
+	border-radius: 8px;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+#pic{
+	border: solid black;
+	width: 200px;
+	height: 400px;
+	align-content: left;
+}
+
